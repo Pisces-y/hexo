@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pisces
+title: hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: pisces.y
+language: zh-CN
 timezone: ''
 
 # URL
