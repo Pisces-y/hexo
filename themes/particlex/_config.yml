@@ -44,6 +44,10 @@ card:
         Description
         ...
     iconLinks:
+        github:
+            name: github
+            theme: brands
+            src: https://github.com/Pisces-y
     friendLinks:
         Argvchs: https://github.com/Pisces-y
 
