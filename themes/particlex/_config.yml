@@ -52,6 +52,10 @@ card:
             name: qq
             theme: brands
             link: http://wpa.qq.com/msgrd?v=3&uin=2477037462&site=qq&menu=yes
+        envelope:
+            name: envelope
+            them: solid
+            link: yj3062976242@outlook.com
     friendLinks:
 
 # Footer info
