@@ -9,7 +9,7 @@ favicon: /images/favicon.png
 
 # Home page background image
 background:
-    - /images/background.jpg
+    - /images/background1.jpg
     - /images/background2.jpg
 
 # ParticleX theme icon is adopts the Font Awesome 6
