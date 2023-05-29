@@ -54,7 +54,7 @@ card:
             link: http://wpa.qq.com/msgrd?v=3&uin=2477037462&site=qq&menu=yes
         envelope:
             name: envelope
-            them: solid
+            theme: solid
             link: yj3062976242@outlook.com
     friendLinks:
 
