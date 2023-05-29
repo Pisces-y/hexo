@@ -61,6 +61,7 @@ card:
             theme: brands
             link: https://twitter.com/pisces592192261
     friendLinks:
+        theme: https://github.com/theme-particlex/hexo-theme-particlex
 
 # Footer info
 footer:
