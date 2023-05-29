@@ -56,6 +56,10 @@ card:
             name: envelope
             theme: solid
             link: mailto:yj3062976242@outlook.com
+        twitter:
+            name: twitter
+            theme: brands
+            link: https://twitter.com/pisces
     friendLinks:
 
 # Footer info
