@@ -47,11 +47,11 @@ card:
         github:
             name: github
             theme: brands
-            src: https://github.com/Pisces-y/
+            link: https://github.com/Pisces-y/
         qq:
             name: qq
             theme: brands
-            src: http://wpa.qq.com/msgrd?v=3&uin=2477037462&site=qq&menu=yes
+            link: http://wpa.qq.com/msgrd?v=3&uin=2477037462&site=qq&menu=yes
     friendLinks:
 
 # Footer info
