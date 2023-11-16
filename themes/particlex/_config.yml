@@ -43,7 +43,6 @@ card:
     enable: true
     description: |
         Description
-        ...
     iconLinks:
         github:
             name: github
