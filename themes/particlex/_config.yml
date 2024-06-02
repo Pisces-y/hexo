@@ -41,7 +41,7 @@ menu:
 # Side info card
 card:
     enable: true
-    description: 既然来了就随便看看吧！本人懒，基本不写什么内容（右下角的小人请随便逗 :smile:）。
+    description: 既然来了就随便看看吧！本人懒，基本不写什么内容（右下角的小人请随便逗 'v'）。
     iconLinks:
         github:
             name: github
